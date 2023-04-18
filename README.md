@@ -1,9 +1,10 @@
+![Encabezado](https://visme.co/blog/wp-content/uploads/2016/04/Header-5.gif)
 <h1 align="center">Hello stranger 👋, I am Miguel Rojas</h1>
 <h3 align="center">A passionate Data Scientist Jr. from Mexico</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=miguelrojas1990&label=Profile%20views&color=0e75b6&style=flat" alt="miguelrojas1990" /> </p>
 
-<img align="right" alt="computer" width="400" src="https://media.tenor.com/bfOEyTxwK40AAAAC/work-computer.gif">
+<img align="right" alt="computer" width="400" src="https://media3.giphy.com/media/W3gBRWTDhCqhw0NgkL/giphy.gif">
 
 - 📫 How to reach me **miguelrojas.contact@gmail.com**
 

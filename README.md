@@ -1,6 +1,6 @@
 ![Encabezado](https://visme.co/blog/wp-content/uploads/2016/04/Header-5.gif)
 <h1 align="center">Welcome to Miguel Rojas' Github 👋</h1>
-<h3 align="center">A passionate Data Scientist Jr. from Mexico</h3>
+<h3 align="center">A passionate Processes engineer from Mexico</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=miguelrojas1990&label=Profile%20views&color=0e75b6&style=flat" alt="miguelrojas1990" /> </p>
 
